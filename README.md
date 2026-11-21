@@ -1,2 +1,0 @@
-# TP05-PHP-CHAYMA-LGHAZOUANI
-TP 05 PHP - Programmation Web 2 - 2026/2027
